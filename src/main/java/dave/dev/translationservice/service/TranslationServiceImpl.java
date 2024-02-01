@@ -1,5 +1,6 @@
 package dave.dev.translationservice.service;
 
+import dave.dev.translationservice.exception.TranslationException;
 import dave.dev.translationservice.model.Translation;
 import dave.dev.translationservice.repository.TranslationRepository;
 import org.springframework.beans.factory.annotation.Autowired;
